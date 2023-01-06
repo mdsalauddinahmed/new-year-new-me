@@ -21,10 +21,14 @@
     border:none;
     border-radius: 5px;
     color: #fff;
+    font-weight: 300;
 }
 .banner-title{
-    font-size:50px;
+    font-size:70px;
+    font-weight: 700;
 }
 .sub-title{
     margin:20px 0 ;
+    color: gray;
+    font-size: 20px;
 }
