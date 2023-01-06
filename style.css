@@ -1,8 +1,10 @@
+/*default setup*/
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
 *{
     margin: 0;
     padding: 0;
 }
+/*header banner start*/
 .banner{
     background-image: url(./images/banner/banner1.png);
     width: 100%;
@@ -32,3 +34,30 @@
     color: gray;
     font-size: 20px;
 }
+/*header banner end*/
+/*services start*/
+.services{
+    
+    margin:100px 200px;
+}
+.service{
+    display: flex;
+    justify-content: space-between;
+}
+.service-item{
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.service-title{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.service-subtile{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 10px;
+}
+/*services End*/
+/*call to action start*/
+
+/*call to action end*/
