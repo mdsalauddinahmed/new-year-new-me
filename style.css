@@ -94,6 +94,24 @@
     padding: 20px;
 }
 .container{
-    margin: 0 200px;
+    margin: 100px 200px;
+}
+.call-to-action-item{
+     background-image: url(./images/watch.png);
+     padding: 80px 20px;
 }
 /*call to action end*/
+/* footer start*/
+.footer-content{
+    display: flex;
+    justify-content:space-around;
+}
+.footer-item{
+     margin: 0 50px;
+}
+footer{
+    padding:200px;
+    background-color: #000;
+    color: #fff;
+}
+/* footer end*/
