@@ -119,6 +119,7 @@
     color:rgb(242, 100, 12); 
     font-weight: bold;
     margin-left: 30px;
+    border: none;
 }
 i{
     color: #0fbf1b;
